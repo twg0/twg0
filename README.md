@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fruit1445)](https://solved.ac/백준아이디/)
+<a href="https://blog.naver.com/twg_0" target="_blank"><img src="https://img.shields.io/badge/Naver Blog-배경색?style=flat&logo=[로고](https://simpleicons.org/icons/naver.svg)&logoColor=#03C75A"/></a>
