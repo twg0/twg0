@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://twg0.notion.site/My-Dev-Log-d297082348de428694b05360e7c88c0e?pvs=4" target="_blank"><img src="https://img.shields.io/icons/notion.svg-000000?style=flat&logo=Notion&logoColor=#FFFFFF"/></a>
+<a href="https://twg0.notion.site/My-Dev-Log-d297082348de428694b05360e7c88c0e?pvs=4" target="_blank"><img src="https://simpleicons.org//icons/notion.svg-000000?style=flat&logo=Notion&logoColor=#FFFFFF"/></a>
 <a href="https://blog.naver.com/twg_0" target="_blank"><img src="https://img.shields.io/badge/Naver Blog-배경색?style=flat&logo=https://simpleicons.org/icons/naver.svg&logoColor=#03C75A"/></a>
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fruit1445)
