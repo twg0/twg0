@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 <a href="https://blog.naver.com/twg_0" target="_blank"><img src="https://img.shields.io/badge/Naver Blog-배경색?style=flat&logo=https://simpleicons.org/icons/naver.svg&logoColor=#03C75A"/></a>
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fruit1445)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=fruit1445&theme=warm)
+<!--![mazandi profile](http://mazandi.herokuapp.com/api?handle=fruit1445&theme=warm)-->
