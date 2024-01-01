@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Slack&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white)
 
-![intellij IDEA](https://img.shields.io/badge/intellij%20IDEA-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
+![intellij IDEA](https://img.shields.io/badge/intellij%20IDEA-3B00B9.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 <!--![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)-->
 <!--![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)-->
 
